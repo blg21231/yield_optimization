@@ -1,5 +1,5 @@
 # yield_optimization
-Yield Optimization for farms using Machine Learning
+Yield Optimization using Machine Learning
 
 1. Generate sample time series training data
 
